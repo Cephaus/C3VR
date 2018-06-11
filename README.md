@@ -1,7 +1,9 @@
 # C3VR
 VR apdaptation of my senior project C3
 
-![img](https://raw.githubusercontent.com/Cephaus/C3VR/Images/O2BM1119.jpg)
+<p align="center">
+  <img src="C3VR/Images/O2BM1119.jpg" width="350"/>
+</p>
 
 Dropbox
 
