@@ -1,14 +1,6 @@
 # C3VR
 VR apdaptation of my senior project C3
 
-<p align="center">
-  <img src="https://www.dropbox.com/s/74jcbl90nxxrgu3/O2BM1119.jpg?dl=0" width="350"/>
-</p>
-
-url=$(echo %clipboard | sed 's/https://www.dropbox.com/s/74jcbl90nxxrgu3/O2BM1119.jpg?dl=0/g' | tr -d '\n')
-
-echo "$url"
-
 Dropbox
 
 Project File:
